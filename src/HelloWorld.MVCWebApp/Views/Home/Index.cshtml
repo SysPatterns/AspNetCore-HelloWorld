@@ -1,0 +1,21 @@
+﻿@model HelloWorld.MVCWebApp.Models.Home.IndexViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+    <div class="text-center">
+        <h1 class="display-4">Hello @Model.Name!</h1>
+        <p>Hi, nice to meet you! So what is your name?</p>
+
+        <div style="margin-top:20px;">
+            <form name="GreetingsForm" asp-action="Greet" method="post">
+                <div>
+                    <label asp-for="Name">Please enter your name: </label>
+                    <input asp-for="Name" />
+                </div>
+                <div style="margin-top:20px;">
+                    <input type="submit" />
+                </div>
+            </form>
+        </div>
+    </div>

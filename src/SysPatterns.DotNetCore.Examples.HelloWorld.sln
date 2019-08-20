@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld.RazorPagesWebApp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.WPFApp", "HelloWorld.WPFApp\HelloWorld.WPFApp.csproj", "{A85BA3F0-F5C4-4F1E-968E-0BA30339FA15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.MVCWebApp", "HelloWorld.MVCWebApp\HelloWorld.MVCWebApp.csproj", "{7A1893C6-D89F-46AA-B08C-3E82956AE692}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{A85BA3F0-F5C4-4F1E-968E-0BA30339FA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A85BA3F0-F5C4-4F1E-968E-0BA30339FA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A85BA3F0-F5C4-4F1E-968E-0BA30339FA15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A1893C6-D89F-46AA-B08C-3E82956AE692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A1893C6-D89F-46AA-B08C-3E82956AE692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A1893C6-D89F-46AA-B08C-3E82956AE692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A1893C6-D89F-46AA-B08C-3E82956AE692}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
