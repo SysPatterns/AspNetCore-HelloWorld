@@ -3,8 +3,6 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.0</TargetFramework>
-    <AssemblyName>HelloWorld.ConsoleApp</AssemblyName>
-    <RootNamespace>SysPatterns.DotNetCore.Examples.HelloWorld.ConsoleApp</RootNamespace>
   </PropertyGroup>
 
 </Project>

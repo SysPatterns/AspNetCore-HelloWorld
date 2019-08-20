@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SysPatterns.DotNetCore.Examples.HelloWorld.ConsoleApp
+namespace HelloWorld.ConsoleApp
 {
     class Program
     {

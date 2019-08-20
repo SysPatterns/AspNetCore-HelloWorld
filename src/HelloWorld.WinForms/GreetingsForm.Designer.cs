@@ -1,4 +1,4 @@
-﻿namespace SysPatterns.DotNetCore.Examples.HelloWorld.WinForms
+﻿namespace HelloWorld.WinForms
 {
     partial class GreetingsForm
     {
