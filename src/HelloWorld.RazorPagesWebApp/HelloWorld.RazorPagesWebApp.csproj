@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <AssemblyName>HelloWorld.RazorPagesWebApp</AssemblyName>
+    <RootNamespace>SysPatterns.DotNetCore.Examples.HelloWorld.RazorPagesWebApp</RootNamespace>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+  </ItemGroup>
+
+</Project>
